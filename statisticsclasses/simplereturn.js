@@ -7,4 +7,4 @@ class simplereturn {
     printname()
     {return 'lol234'}
   }
-  module.exports = simplereturn;
+  module.exports = simplereturn; 

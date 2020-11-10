@@ -1,0 +1,14 @@
+1. Take in multiple number sequenc and display
+
+
+
+
+2. customizable sigma a based  outlier detection 
+
+
+
+3. Functionalities
+
+BAsic**************************************
+
+ 
