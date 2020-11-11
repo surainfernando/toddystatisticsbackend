@@ -1,4 +1,4 @@
-DataSeries A(Original Data collected from toddy producer for 200 trees),Data series B (Add 10 lters to al data points),Data series C( Randomly add and and subtract 1-5 liters from data points)
+DataSeries-A,DataSeries-B ,DataSeries-C
 265,275,265
 266,276,267
 269.5,279.5,269.5
